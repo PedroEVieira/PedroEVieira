@@ -19,10 +19,9 @@ Technology is not about the future, but our present, so lets make changes and do
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,c,cpp,git,figma&theme=dark)](https://skills.thijs.gg)
 
-
 <table align="center" style="margin: 0px auto;">
   <tr>
-      <td><img src ="https://github-readme-stats.vercel.app/api?username=PedroEVieira&show_icons=true&count_private=true&theme=merko&hide_border=true,contribs&bg_color=00000000%22%3E</td>
-      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEVieira&layout=compact&hide_border=true&theme=merko&bg_color=00000000&hide=html%22%3E</td>
-  </tr>
+      <td><img src ="https://github-readme-stats.vercel.app/api?username=PedroEVieira&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000"></td>
+      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEVieira&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html"></td>
+  </tr>   
 </table>
