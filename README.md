@@ -21,7 +21,7 @@ Technology is not about the future, but our present, so lets make changes and do
 
 <table align="center" style="margin: 0px auto;">
   <tr>
-      <td><img src ="https://github-readme-stats.vercel.app/api?username=PedroEVieira&show_icons=true&count_private=true&theme=onedark&hide_border=true,contribs&bg_color=00000000"></td>
-      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEVieira&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&hide=html"></td>
+      <td><img src ="https://github-readme-stats.vercel.app/api?username=PedroEVieira&show_icons=true&count_private=true&theme=radical&hide_border=true,contribs&bg_color=00000000"></td>
+      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEVieira&layout=compact&hide_border=true&theme=radical&bg_color=00000000&hide=html"></td>
   </tr>   
 </table>
